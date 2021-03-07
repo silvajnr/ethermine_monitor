@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+/bin/*
+/bin/Debug/net5.0
+/obj
+/Properties/PublishProfiles
+/bin/Release/net5.0
+/bin/publish
